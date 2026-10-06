@@ -1,0 +1,5 @@
+Hospital front desks answer the same questions all day: OPD timings, doctor availability, lab report status, appointment slots.
+
+SOUVAAK is a voice AI that answers patient calls 24/7, shares information and books appointments, in 9+ Indian languages including Telugu and Hindi, so your staff can focus on patients in front of them.
+
+#SOUVAAK #VoiceAI #HospitalAI #HealthcareAI #SouvenoAI

@@ -1,0 +1,20 @@
+Construction sites are busy and always changing. Workers move through different areas all day, and safety rules like helmets, jackets and shoes need to be followed every hour. Watching all of it manually is difficult.
+
+SOWI by Souveno AI turns your existing site cameras into real-time safety, workforce and operational intelligence.
+
+SOWI can support:
+
+• People detection and workforce visibility
+• PPE safety detection (helmet, safety shoes, safety jacket)
+• Zone detection with restricted-area alerts
+• Face recognition for attendance and authorized access, where permitted and configured with proper consent and policies
+• Workforce status such as working and not working
+• An analytics dashboard with people counts and trends
+
+The exact detection capability depends on camera quality, placement, lighting, environment and the configured use case.
+
+See a demo for your site:
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#SOWI #ConstructionSafety #VisionAI #PPE #SiteSafety #Construction #EHS #ComputerVision #AIForBusiness #SouvenoAI

@@ -1,0 +1,23 @@
+In B2B manufacturing, a single customer enquiry usually kicks off a long chain of manual work: understand the requirement, check product and stock, prepare a quotation, follow up, confirm the order and payment, raise the invoice and e-way bill, and arrange dispatch. Every step handled by hand is a chance for delay or error.
+
+E2D (Enquiry to Dispatch) by Souveno AI is built for manufacturing sales teams to automate this flow end to end.
+
+E2D can support:
+
+• Enquiries from customers on WhatsApp
+• Requirement collection through conversation
+• Product and stock check (when connected to your system)
+• Quotation generation
+• Order confirmation and payment follow-up
+• Dispatch and e-way bill handling
+• Automated invoice generation
+• 24/7 customer engagement
+
+Businesses can be onboarded in under 30 minutes. Your team focuses on the business, while E2D handles the routine flow.
+
+The exact capabilities depend on the integrations and configuration for each business.
+
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#E2D #SouvenoAI #Manufacturing #B2BSales #SalesAutomation #OrderManagement #EWayBill #WhatsAppBusiness #BusinessAutomation #IndustrialSales

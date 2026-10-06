@@ -1,0 +1,15 @@
+Factories already have cameras across production areas, entrances and work zones. SOWI adds an AI layer to compatible CCTV systems so those camera feeds can support more than just recording.
+
+SOWI can support:
+
+• Configured PPE-related safety events
+• Restricted-zone monitoring
+• Person and movement detection
+• Employee presence and activity visibility
+• Event records and alerts
+• Camera-based operational insights
+• Compatible CCTV, IP camera, NVR and RTSP environments
+
+Instead of using camera footage only after something happens, SOWI helps businesses make better use of the camera infrastructure they already have for day-to-day safety and operations.
+
+#SOWI #VisionAI #FactorySafety #PPE #EHS #CCTVAI #ManufacturingAI #IndustrialAI #ComputerVision #SafetyAutomation #SmartFactory #AIForBusiness #SouvenoAI

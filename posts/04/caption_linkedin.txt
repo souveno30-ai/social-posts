@@ -1,0 +1,21 @@
+In a warehouse, a lot happens at once: forklifts moving, people crossing aisles, loading bays busy and restricted areas that need strict control. Cameras are usually in place, but someone has to be watching at the right moment.
+
+SOWI by Souveno AI adds an AI layer to compatible existing cameras so they can help keep the warehouse safer and smarter.
+
+SOWI can support:
+
+• Restricted-zone entry detection with real-time alerts
+• People detection and movement visibility
+• Vehicle movement monitoring
+• Area monitoring across camera views
+• Operational insights, such as people counts and working or not-working status
+• Alerts to a phone with the event image
+
+This helps safety and operations teams notice incidents earlier instead of reviewing footage after the fact.
+
+The exact capability depends on camera quality, placement, lighting, environment and the configured use case.
+
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#SOWI #SouvenoAI #WarehouseSafety #VisionAI #CCTVAI #Logistics #SupplyChain #SafetyAutomation #ComputerVision #IndustrialAI

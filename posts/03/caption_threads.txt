@@ -1,0 +1,7 @@
+Distributors lose orders when enquiries wait for a reply.
+
+E2D turns a WhatsApp enquiry into a confirmed order: collects requirements, checks stock (when connected), sends the quotation, confirms the order, and supports invoice, e-way bill and dispatch tracking.
+
+One flow, far less manual follow-up.
+
+#E2D #Distributors #WhatsAppAutomation #SalesAutomation #SouvenoAI

@@ -1,0 +1,22 @@
+Hospital phones never stop ringing. Patients ask about OPD timings, doctor availability, lab reports and appointment slots, while the front desk is also serving people standing in front of them. Calls get missed, and missed calls mean missed appointments.
+
+SOUVAAK is a voice AI for hospitals that answers patient calls 24/7, provides information and books appointments automatically.
+
+SOUVAAK can support:
+
+• Round-the-clock call handling
+• Appointment booking by department and date
+• Patient information such as OPD timings and departments
+• Enquiry and follow-up tracking
+• A dashboard with calls, bookings and follow-ups
+• 9+ Indian languages, including Telugu and Hindi
+
+Reduce staff workload and make every patient feel heard.
+
+Exact capabilities depend on the integrations and configuration set up for each hospital.
+
+Book a demo:
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#SOUVAAK #VoiceAI #HospitalAI #HealthcareAI #HealthTech #PatientExperience #AppointmentBooking #AIForBusiness #SouvenoAI

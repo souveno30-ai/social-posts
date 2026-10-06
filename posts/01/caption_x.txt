@@ -1,0 +1,3 @@
+SOWI adds an AI layer to compatible CCTV systems so factories can use existing cameras for configured PPE events, restricted-zone monitoring, person detection and operational visibility—without replacing the current camera setup.
+
+#SOWI #VisionAI #CCTVAI #FactoryAI #SouvenoAI
