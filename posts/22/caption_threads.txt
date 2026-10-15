@@ -1,0 +1,3 @@
+Attendance by register or card is easy to fake. SOWI identifies employees by face (where permitted and with consent), logs entry and exit automatically, tracks attendance in real time and alerts on unauthorized access.
+
+#SOWI #Attendance #SouvenoAI

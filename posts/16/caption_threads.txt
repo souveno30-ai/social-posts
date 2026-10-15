@@ -1,0 +1,3 @@
+Store cameras record everything and tell you nothing. SOWI can turn compatible feeds into configured people, movement and zone events (entries, exits, checkout occupancy, dwell time) on a dashboard.
+
+#SOWI #RetailAnalytics #SouvenoAI

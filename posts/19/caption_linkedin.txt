@@ -1,0 +1,20 @@
+Critical areas need continuous visibility.
+
+Labs, clean rooms and secure areas cannot depend on someone watching a screen all day. SOWI can support configured person and restricted-zone events using compatible camera feeds.
+
+Capabilities include:
+
+• Define the area to monitor
+• Detect configured person entry and movement
+• Create an alert or operational record
+
+Live monitoring shows restricted-area events, total people, and authorized versus unauthorized entries in one view.
+
+The exact capability depends on camera quality, placement, lighting, environment and the configured use case.
+
+🎁 Dussehra Special: Lower Pricing Offer, valid till October 31st.
+
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#SOWI #RestrictedArea #Pharma #CleanRoom #VisionAI #SafetyAutomation #ComputerVision #AIForBusiness #SouvenoAI

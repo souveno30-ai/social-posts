@@ -1,0 +1,16 @@
+Turn service reminders into booked visits. 🚗
+
+A service reminder only helps if it ends in a booking. SouvAAK can call customers, capture their preferred time and send the request to your service team.
+
+📞 Calls customers due for service
+📅 Asks date, time and vehicle details
+👥 Sends the booking request to your service team
+
+A typical call: "Hello! Your vehicle is due for service. Would you like to book a slot this week?" The customer can book, reschedule or raise a query.
+
+🎁 Dussehra Special: Lower Pricing Offer, valid till October 31st.
+
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#SouvAAK #VoiceAI #AutomobileService #CarService #ServiceReminders #Dealerships #AIForBusiness #SouvenoAI

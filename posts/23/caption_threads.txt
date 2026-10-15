@@ -1,0 +1,5 @@
+A guest calls to ask about a room for next weekend, and the front desk line is busy. SouvAAK answers, collects dates and room preference, answers questions and routes the booking.
+
+An AI voice receptionist for hotels.
+
+#SouvAAK #Hotels #VoiceAI #SouvenoAI

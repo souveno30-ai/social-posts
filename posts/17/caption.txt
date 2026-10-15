@@ -1,0 +1,14 @@
+Reduce the time spent on routine reminder calls. 🩺
+
+Clinics and diagnostic labs spend hours every day on reminder calls. SouvAAK can call patients, capture confirmations and send the outcome into your workflow.
+
+📞 Calls upcoming appointment lists
+📅 Captures Confirm, Reschedule or Query
+👥 Updates the team or connected system
+
+A typical call: "Hello, this is a reminder from your clinic. Your appointment is tomorrow at 11 AM. Can you please confirm?" The reply is recorded as confirm, reschedule or query.
+
+📩 sales@souveno.tech
+📞 +91 9014647151
+
+#SouvAAK #VoiceAI #Clinics #DiagnosticLabs #AppointmentReminders #HealthTech #AIForHealthcare #SouvenoAI

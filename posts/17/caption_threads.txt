@@ -1,0 +1,3 @@
+Reminder calls take hours every day at a clinic or lab. SouvAAK calls upcoming appointments, asks the patient to confirm, reschedule or raise a query, and sends the outcome to your team or connected system.
+
+#SouvAAK #HealthTech #VoiceAI #SouvenoAI
