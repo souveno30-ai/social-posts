@@ -1,0 +1,3 @@
+Stock-outs lose orders. Overstock locks up cash. EtoD by Souveno AI tracks stock in real time, alerts you on low stock and suggests what to purchase, across multiple locations and integrated with sales, purchase and accounts.
+
+#EtoD #InventoryManagement #SouvenoAI

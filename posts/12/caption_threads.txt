@@ -1,0 +1,5 @@
+A customer messages for a quote on WhatsApp. E2D captures the enquiry, sends the quotation, confirms the order, creates the invoice and manages dispatch and e-way bills, all in one flow.
+
+Less manual follow-up, more orders.
+
+#E2D #WhatsAppBusiness #SouvenoAI
